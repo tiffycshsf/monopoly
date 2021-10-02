@@ -1,0 +1,4 @@
+﻿  bankUI.cpp
+c:\users\powen\onedrive\桌面\fadachie\newnew\monopoly\monopoly\bankui.cpp(584): warning C4244: '引數': 將 'double' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\powen\onedrive\桌面\fadachie\newnew\monopoly\monopoly\bankui.cpp(637): warning C4244: '引數': 將 'double' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  monopoly.vcxproj -> C:\Users\powen\OneDrive\桌面\fadachie\newnew\monopoly\Debug\monopoly.exe

@@ -1,0 +1,39 @@
+﻿  Bank.cpp
+C:\Users\tiffy\Desktop\NTUST\大三\物件導向實習\Monopoly\第九組\monopoly\monopoly\Bank.cpp(44,50): warning C4018: '>=': signed/unsigned 不相符
+C:\Users\tiffy\Desktop\NTUST\大三\物件導向實習\Monopoly\第九組\monopoly\monopoly\Bank.cpp(58,25): warning C4018: '>=': signed/unsigned 不相符
+C:\Users\tiffy\Desktop\NTUST\大三\物件導向實習\Monopoly\第九組\monopoly\monopoly\Bank.cpp(80,22): warning C4018: '>=': signed/unsigned 不相符
+C:\Users\tiffy\Desktop\NTUST\大三\物件導向實習\Monopoly\第九組\monopoly\monopoly\Bank.cpp(80,51): warning C4018: '>=': signed/unsigned 不相符
+C:\Users\tiffy\Desktop\NTUST\大三\物件導向實習\Monopoly\第九組\monopoly\monopoly\Bank.cpp(93,12): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+C:\Users\tiffy\Desktop\NTUST\大三\物件導向實習\Monopoly\第九組\monopoly\monopoly\Bank.cpp(94,45): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\tiffy\Desktop\NTUST\大三\物件導向實習\Monopoly\第九組\monopoly\monopoly\Bank.cpp(99,12): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+C:\Users\tiffy\Desktop\NTUST\大三\物件導向實習\Monopoly\第九組\monopoly\monopoly\Bank.cpp(100,42): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\tiffy\Desktop\NTUST\大三\物件導向實習\Monopoly\第九組\monopoly\monopoly\Bank.cpp(105,60): warning C4244: '*=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\tiffy\Desktop\NTUST\大三\物件導向實習\Monopoly\第九組\monopoly\monopoly\Bank.cpp(110,57): warning C4244: '*=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  bankUI.cpp
+C:\Users\tiffy\Desktop\NTUST\大三\物件導向實習\Monopoly\第九組\monopoly\monopoly\bankUI.cpp(584,69): warning C4244: '引數': 將 'double' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+C:\Users\tiffy\Desktop\NTUST\大三\物件導向實習\Monopoly\第九組\monopoly\monopoly\bankUI.cpp(637,68): warning C4244: '引數': 將 'double' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  basicUI.cpp
+  Character.cpp
+C:\Users\tiffy\Desktop\NTUST\大三\物件導向實習\Monopoly\第九組\monopoly\monopoly\Character.cpp(46,12): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+C:\Users\tiffy\Desktop\NTUST\大三\物件導向實習\Monopoly\第九組\monopoly\monopoly\Character.cpp(148,12): warning C4018: '>': signed/unsigned 不相符
+  EConsole.cpp
+  Estates.cpp
+  item.cpp
+C:\Users\tiffy\Desktop\NTUST\大三\物件導向實習\Monopoly\第九組\monopoly\monopoly\item.cpp(103,17): warning C4267: 'return': 將 'size_t' 轉換為 'int'，資料可能遺失
+  loadMap.cpp
+C:\Users\tiffy\Desktop\NTUST\大三\物件導向實習\Monopoly\第九組\monopoly\monopoly\loadMap.cpp(127,47): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\tiffy\Desktop\NTUST\大三\物件導向實習\Monopoly\第九組\monopoly\monopoly\loadMap.cpp(250,41): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+  main.cpp
+C:\Users\tiffy\Desktop\NTUST\大三\物件導向實習\Monopoly\第九組\monopoly\monopoly\main.cpp(35,12): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  playerUI.cpp
+C:\Users\tiffy\Desktop\NTUST\大三\物件導向實習\Monopoly\第九組\monopoly\monopoly\playerUI.cpp(426,47): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\tiffy\Desktop\NTUST\大三\物件導向實習\Monopoly\第九組\monopoly\monopoly\playerUI.cpp(467,30): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  stateMachine.cpp
+  stock.cpp
+C:\Users\tiffy\Desktop\NTUST\大三\物件導向實習\Monopoly\第九組\monopoly\monopoly\stock.cpp(86,12): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\tiffy\Desktop\NTUST\大三\物件導向實習\Monopoly\第九組\monopoly\monopoly\stock.cpp(135,21): warning C4244: '正在初始化': 將 'double' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  win.cpp
+  正在產生程式碼...
+C:\Users\tiffy\Desktop\NTUST\大三\物件導向實習\Monopoly\第九組\monopoly\monopoly\playerUI.cpp(601): warning C4715: 'blockplace': 不是所有控制路徑都傳回值
+C:\Users\tiffy\Desktop\NTUST\大三\物件導向實習\Monopoly\第九組\monopoly\monopoly\item.cpp(161): warning C4715: 'selectItem': 不是所有控制路徑都傳回值
+  monopoly.vcxproj -> C:\Users\tiffy\Desktop\NTUST\大三\物件導向實習\Monopoly\第九組\monopoly\x64\Debug\monopoly.exe
